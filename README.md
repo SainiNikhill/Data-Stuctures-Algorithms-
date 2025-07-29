@@ -15,13 +15,12 @@ This repository is for:
 ---
 
 ## 🧱 Project Structure
-├── tracker.csv # All problems with status and assignment
-├── solutions/ # Individual solutions folder
-│ ├── nikhil/
-│ ├── priya/
-│ └── rahul/
-├── README.md
-└── CONTRIBUTING.md
+- --------tracker/
+- --------Solutions/
+- --------Topics/
+- --------Resources/
+- --------readme.md
+- --------CONTRIBUTING.md
 
 
 
