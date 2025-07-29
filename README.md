@@ -65,7 +65,7 @@ Want to contribute or join us?
 - Check the [CONTRIBUTING.md](./CONTRIBUTING.md) file
 - Pick a problem from `tracker.csv`
 - Solve it in your folder
-- Update the tracker and push your changes
+- push your changes
 
 ---
 

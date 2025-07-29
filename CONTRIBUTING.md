@@ -6,13 +6,14 @@ Welcome to our collaborative DSA (Data Structures & Algorithms) practice reposit
 
 ## 🧩 Folder Structure
 ├── tracker.csv # DSA problem tracker
-├── solutions/ # All solution files
-│ ├── nikhil/
-│ ├── priya/
-│ └── rahul/
-├── CONTRIBUTING.md
-└── README.md
-
+- `solutions/`
+  - `nikhil/`
+    - `two-sum.java`
+    - `max-subarray.java`
+  - `priya/`
+    - `merge-intervals.py`
+  - `rahul/`
+    - `valid-parentheses.cpp`
 
 Each person should use their **own folder** to submit solutions.
 
