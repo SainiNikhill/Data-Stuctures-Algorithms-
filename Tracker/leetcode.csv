@@ -1,0 +1,11 @@
+Sr No,Leetcode Q No,Problem Name,Link,Difficulty,Notes
+1,1,Two Sum,https://leetcode.com/problems/two-sum,Easy,HashMap used
+2,121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,Easy,Track min price
+3,20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses,Easy,Used stack
+4,56,Merge Intervals,https://leetcode.com/problems/merge-intervals,Medium,Sort and merge
+5,3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters,Medium,Sliding window
+6,215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array,Medium,Use heap
+7,70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs,Easy,DP approach
+8,33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array,Medium,Binary search
+9,236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree,Medium,DFS
+10,139,Word Break,https://leetcode.com/problems/word-break,Medium,DP + set

@@ -5,15 +5,17 @@ Welcome to our collaborative DSA (Data Structures & Algorithms) practice reposit
 ---
 
 ## 🧩 Folder Structure
-├── tracker.csv # DSA problem tracker
-- `solutions/`
-  - `nikhil/`
-    - `two-sum.java`
-    - `max-subarray.java`
-  - `priya/`
-    - `merge-intervals.py`
-  - `rahul/`
-    - `valid-parentheses.cpp`
+## 🧱 Project Structure
+- --------tracker/
+- --------Solutions/
+-                  jt/
+-                  nikhil/
+-                  mayank/
+- --------Topics/
+- --------Resources/
+- --------readme.md
+- --------CONTRIBUTING.md
+
 
 Each person should use their **own folder** to submit solutions.
 
@@ -53,7 +55,7 @@ git commit -m "nikhil: solved two sum"
 # Push to main or create PR
 git push origin main
 
-### 🗃️ File Naming Rules
+###🗃️ File Naming Rules
 Use lowercase with hyphens: kth-largest-element.py
 
 Prefer camelCase inside code for variables/functions
